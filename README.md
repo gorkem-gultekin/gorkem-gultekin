@@ -2,8 +2,6 @@
 
 - 📱 I'm iOS Developer!
 
-- 🌱 I’m currently learning **Swift**
-
 - 👨‍💻 You can view my resume here [http://gorkemgultekin.com/](http://gorkemgultekin.com/)
 
 - 📫 How to reach me **gultekingorkem1@gmail.com**
