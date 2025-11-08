@@ -2,8 +2,6 @@
 
 - 📱 I'm iOS Developer!
 
-- 👨‍💻 You can view my resume here [http://gorkemgultekin.com/](http://gorkemgultekin.com/)
-
 - 📫 How to reach me **gultekingorkem1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
